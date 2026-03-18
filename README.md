@@ -4,12 +4,12 @@ PlayBy is a social sports app that helps users find, join, and host local pickup
 
 ## 🚀 Features
 
-- Swipe-to-join system for discovering nearby games  
-- Interactive map to view games by location  
-- Create and host pickup games  
-- Player profiles with sports and skill levels  
-- In-app chat for game coordination  
-- Notifications for invites and updates  
+- Swipe-to-join system for discovering nearby games
+- Interactive map to view games by location
+- Create and host pickup games
+- Player profiles with sports and skill levels
+- In-app chat for game coordination
+- Notifications for invites and updates
 - Skill-based matching (beginner, intermediate, advanced)
 
 ## 📱 Tech Stack
@@ -21,6 +21,7 @@ PlayBy is a social sports app that helps users find, join, and host local pickup
 ## 🛠️ Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/your-username/playby.git
 cd playby
@@ -29,10 +30,12 @@ npx expo start
 ---
 
 ### 🔥 Small things you should customize:
-- Replace `your-username` with your actual GitHub username  
+- Replace `your-username` with your actual GitHub username
 - Add your **real repo name if different**
 - Later you can add:
   - Screenshots of your app
   - Demo video
   - API integrations
 
+New edit
+```
